@@ -6,4 +6,4 @@ Some 3d controls to the position of the camera are also implemented. Zooming in 
 
 # result demo
 
-<img src="myscene.jpg" alt="rendered result" width="200"/>
+<img src="myscene.png" alt="rendered result" width="200"/>
